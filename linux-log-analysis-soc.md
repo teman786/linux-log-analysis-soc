@@ -1132,6 +1132,8 @@ Investigate
 Build Timeline
    ↓
 Determine What Happened
-```
+'''
 
 For a SOC analyst, learning Linux logging is ultimately about turning raw technical events into a clear understanding of **who did what, when, from where, and how**.
+
+reference :https://tryhackme.com/room/linuxloggingforsoc
